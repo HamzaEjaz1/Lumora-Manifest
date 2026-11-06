@@ -1,0 +1,589 @@
+{
+  "meta": {
+    "title": "LUMORA Manifest — Historias de audio personales en tu propia voz",
+    "description": "LUMORA Manifest crea historias de audio personalizadas, narradas por IA, sobre la vida que quieres, en tu voz clonada.",
+    "ogTitle": "Tu próximo capítulo empieza contigo.",
+    "termsTitle": "Términos del servicio",
+    "termsDescription": "Los términos que rigen el uso de la app y el sitio de LUMORA Manifest.",
+    "privacyTitle": "Política de privacidad",
+    "privacyDescription": "Cómo LUMORA Manifest trata tus historias, grabaciones de voz y cuenta.",
+    "supportTitle": "Soporte",
+    "supportDescription": "Escribe al equipo de LUMORA Manifest sobre tu cuenta, tus historias o tu voz."
+  },
+  "a11y": {
+    "skip": "Saltar al contenido",
+    "logo": "Inicio de LUMORA Manifest",
+    "primaryNav": "Principal"
+  },
+  "nav": {
+    "how": "How it works",
+    "voice": "Voice",
+    "stories": "Stories",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "download": "Download",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "lang": {
+    "label": "Language",
+    "en": "English",
+    "ru": "Русский",
+    "ar": "العربية",
+    "id": "Bahasa Indonesia",
+    "es": "Español",
+    "zh": "中文"
+  },
+  "hero": {
+    "eyebrow": "Dream-life audio",
+    "headline": "Your next chapter starts with you.",
+    "subhead": "Personal audio stories, narrated in your own voice, about the life you want.",
+    "appStore": "Download on the App Store",
+    "mockLabel": "LUMORA Manifest home screen"
+  },
+  "demo": {
+    "eyebrow": "Listen",
+    "title": "Hear a chapter before you download.",
+    "subtitle": "Choose a life you are writing. Press play and follow the lines as they are spoken.",
+    "defaultVoice": "Default voice",
+    "yourVoice": "Your voice",
+    "voiceToggle": "Narration voice",
+    "play": "Play story",
+    "pause": "Pause story",
+    "progress": "Story progress",
+    "waveform": "Audio waveform",
+    "categories": {
+      "love": "Love Life",
+      "money": "Financial Freedom",
+      "family": "Family",
+      "career": "Career Era",
+      "health": "Health"
+    },
+    "stories": {
+      "love": {
+        "title": "The evening I stopped waiting",
+        "lines": [
+          "Warm sunlight fills the room, and I feel completely at home.",
+          "I set the table for two without rehearsing what I will say.",
+          "Their laugh lands softly, and the future stops feeling far away.",
+          "I stay. That is the whole story, and it is enough."
+        ]
+      },
+      "money": {
+        "title": "A morning with the numbers settled",
+        "lines": [
+          "The numbers settle, and I choose my morning without rushing.",
+          "Coffee cools while I decide what the day is actually for.",
+          "I pay the bill that used to sit in the back of my mind.",
+          "Freedom, it turns out, sounds a lot like a quiet kitchen."
+        ]
+      },
+      "family": {
+        "title": "The kitchen that already knows us",
+        "lines": [
+          "Laughter reaches the kitchen before I do, and I already belong.",
+          "Someone saved me a chair without making a speech about it.",
+          "The window is open, and the evening has nowhere else to be.",
+          "I listen longer than I talk, and that feels like love."
+        ]
+      },
+      "career": {
+        "title": "The room I walked into ready",
+        "lines": [
+          "I walk into the room already certain of the work I came to do.",
+          "My name is on the work, and I do not shrink it to fit.",
+          "The question they ask is one I have already lived inside.",
+          "I leave with the next chapter still open, on purpose."
+        ]
+      },
+      "health": {
+        "title": "A body I trust again",
+        "lines": [
+          "My breath is slow, and my body feels like a place I trust.",
+          "I take the long way home because my legs want the light.",
+          "Rest is on the calendar, the same way work used to be.",
+          "I thank the day for being ordinary and kind."
+        ]
+      }
+    }
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "Four quiet steps to a story that sounds like you.",
+    "steps": [
+      {
+        "title": "Tell LUMORA Manifest about your world",
+        "body": "A 22-step guided onboarding covers the people, places, and details that make a story feel like yours."
+      },
+      {
+        "title": "Dream freely",
+        "body": "Name the goals, the cities, and the home you are moving toward. LUMORA Manifest writes from that picture."
+      },
+      {
+        "title": "Record your voice",
+        "body": "Clone your voice with a short recording. Keep up to three takes, and stay in control of consent."
+      },
+      {
+        "title": "Listen, read, share",
+        "body": "Play the story, read along with synced lines, save favorites, and share a card when you want to."
+      }
+    ]
+  },
+  "voice": {
+    "eyebrow": "Your voice",
+    "title": "Your voice, your story.",
+    "body": "LUMORA Manifest narrates in a voice clone you record yourself, or in a preset voice if you would rather listen first.",
+    "recordings": "You can keep up to 3 voice recordings.",
+    "presetsLabel": "Preset voices",
+    "presets": "Emma, Lauren, Henry, and James are ready when you want a narrator that is not your own.",
+    "checklistTitle": "Before you record",
+    "checks": [
+      "Find a quiet room",
+      "Hold the phone a hand's width away",
+      "Read the prompt at your natural pace",
+      "Redo a take whenever you want"
+    ],
+    "consent": "I agree to use my voice recording to narrate my LUMORA Manifest stories.",
+    "consentHint": "A clone is created only after you consent. You can delete a recording later in the app.",
+    "preview": "Preview recording",
+    "stop": "Stop preview",
+    "waveform": "Recording preview"
+  },
+  "features": {
+    "eyebrow": "The app",
+    "title": "Everything around the story.",
+    "items": [
+      {
+        "title": "Stories by category",
+        "body": "Love, money, family, career, and health. Each chapter is written from the life you described."
+      },
+      {
+        "title": "Listen or read",
+        "body": "Play the narration, or read the same chapter with lines that stay in sync."
+      },
+      {
+        "title": "Background audio",
+        "body": "Keep a story playing with the phone locked, or while you move to another app."
+      },
+      {
+        "title": "Favorites",
+        "body": "Save the chapters you want to return to on an evening that needs them."
+      },
+      {
+        "title": "Shareable cards",
+        "body": "Turn a story into a card sized for the places you already post."
+      },
+      {
+        "title": "Six languages",
+        "body": "English, Russian, Arabic, Bahasa Indonesia, Spanish, and Chinese."
+      },
+      {
+        "title": "A new story, daily",
+        "body": "Open LUMORA Manifest and a fresh chapter can already be waiting."
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "Screens",
+    "title": "A calm player for a loud goal.",
+    "subtitle": "Swipe through Home, Play, Read, Favorites, Profile, and Share.",
+    "prev": "Previous screen",
+    "next": "Next screen",
+    "screens": {
+      "home": "Home",
+      "play": "Play",
+      "read": "Read",
+      "favorites": "Favorites",
+      "profile": "Profile",
+      "share": "Share"
+    }
+  },
+  "phone": {
+    "greeting": "Good evening",
+    "you": "You",
+    "continue": "Continue",
+    "minutes": "12 min",
+    "tonight": "Tonight",
+    "seeAll": "See all",
+    "nowPlaying": "Now playing",
+    "readAlong": "Read along",
+    "saved": "Saved",
+    "myVoice": "My voice",
+    "recordingCount": "2 of 3 recordings",
+    "shareCard": "Story card",
+    "step": "Step 7 of 22",
+    "question": "What should we call you?",
+    "next": "Continue",
+    "dream": "Dream home",
+    "cities": "Cities you keep picturing",
+    "homeLine": "A bright kitchen, close to the water",
+    "recordTitle": "Your voice",
+    "chips": [
+      "Love",
+      "Family",
+      "Career"
+    ]
+  },
+  "privacyBlock": {
+    "eyebrow": "Trust",
+    "title": "Your privacy matters.",
+    "body": "You share only what you are comfortable with. Your voice clone is used only with consent. The microphone is used only while you are recording. You can delete your account anytime.",
+    "link": "Read the Privacy Policy"
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Choose your next chapter",
+    "perWeek": "/ week",
+    "perMonth": "/ month",
+    "bestValue": "Best value",
+    "stories": "{count} new stories daily",
+    "renews": "Auto-renews · Cancel anytime",
+    "restore": "Restore purchases",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "plans": {
+      "explore": "Explore",
+      "plus": "LUMORA Manifest Plus",
+      "premium": "LUMORA Manifest Premium"
+    },
+    "cta": {
+      "explore": "Continue with Explore",
+      "plus": "Continue with Plus",
+      "premium": "Continue with Premium"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Notes",
+    "title": "Listeners, in their own words.",
+    "disclaimer": "Placeholder notes. Replace the cards in config/site.ts."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions, answered plainly.",
+    "items": [
+      {
+        "q": "How does voice cloning work?",
+        "a": "You record a short sample in the app. After you consent, LUMORA Manifest builds a voice clone and uses it only to narrate your stories. You can store up to three recordings, switch to a preset voice, or delete a recording."
+      },
+      {
+        "q": "Is my data private?",
+        "a": "You decide what to share during onboarding. Voice audio is used only with consent, the microphone is active only while you record, and you can delete your account and recordings."
+      },
+      {
+        "q": "Which languages can I use?",
+        "a": "English, Russian, Arabic, Bahasa Indonesia, Spanish, and Chinese."
+      },
+      {
+        "q": "Can I cancel anytime?",
+        "a": "Yes. Explore, LUMORA Manifest Plus, and LUMORA Manifest Premium auto-renew until you cancel in the App Store. You can restore purchases if you change phones."
+      },
+      {
+        "q": "Is it available on iOS?",
+        "a": "Yes. LUMORA Manifest is on the App Store."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Your next chapter is loading.",
+    "subtitle": "Download LUMORA Manifest and hear the life you are writing, in a voice you trust."
+  },
+  "footer": {
+    "tagline": "Historias de audio personales, narradas con tu propia voz.",
+    "product": "Producto",
+    "legal": "Legal",
+    "terms": "Términos del servicio",
+    "privacy": "Política de privacidad",
+    "support": "Soporte",
+    "rights": "Todos los derechos reservados.",
+    "x": "LUMORA Manifest on X",
+    "instagram": "LUMORA Manifest on Instagram",
+    "tiktok": "LUMORA Manifest on TikTok"
+  },
+  "legal": {
+    "draft": "Este texto legal es un borrador del sitio. Un abogado debe revisarlo antes de publicarlo.",
+    "updatedLabel": "Última actualización",
+    "updated": "6 de noviembre de 2026",
+    "back": "Volver a LUMORA Manifest",
+    "termsSections": [
+      {
+        "title": "El acuerdo",
+        "body": "Estos términos son un borrador. Regirán el uso de la app LUMORA Manifest y de este sitio cuando un abogado los haya revisado. Al descargar LUMORA Manifest aceptarás los términos publicados."
+      },
+      {
+        "title": "El servicio",
+        "body": "LUMORA Manifest escribe historias de audio personalizadas a partir de los detalles que eliges compartir, y puede narrarlas con una voz que grabas o con una voz predeterminada. Las historias se generan para ti. No son una promesa de que ocurra un hecho futuro."
+      },
+      {
+        "title": "Cuentas y suscripciones",
+        "body": "LUMORA Manifest ofrece Explore, LUMORA Manifest Plus y LUMORA Manifest Premium. Las suscripciones se gestionan en el App Store, incluida la restauración de compras. Se renuevan hasta que las canceles en el App Store. Los precios de este sitio salen de config/site.ts."
+      },
+      {
+        "title": "Tus historias y tu voz",
+        "body": "Conservas el derecho sobre los datos personales que envías. Das permiso a LUMORA Manifest para usar una grabación de voz solo después de tu consentimiento, y solo para narrar tus historias. Puedes borrar las grabaciones y tu cuenta."
+      },
+      {
+        "title": "Uso aceptable",
+        "body": "No uses LUMORA Manifest para hacerte pasar por otra persona, para grabar una voz que no tienes permiso de usar, ni para infringir la ley. Podemos suspender una cuenta que haga un mal uso del clon de voz."
+      },
+      {
+        "title": "Contacto",
+        "body": "Las preguntas sobre estos términos pueden enviarse a support@lumoramanifest.com o desde la página de soporte. Este borrador no limita los derechos que te dan las leyes de tu país."
+      }
+    ],
+    "privacySections": [
+      {
+        "title": "Lo que compartes",
+        "body": "El inicio pregunta por tu mundo, tus metas y la vida que quieres oír. Compartes solo lo que te resulta cómodo. Puedes omitir detalles y seguir usando LUMORA Manifest."
+      },
+      {
+        "title": "Clon de voz y consentimiento",
+        "body": "El clon de voz se crea solo después de que aceptas. LUMORA Manifest usa ese clon para narrar tus historias. Puedes guardar hasta tres grabaciones, cambiar a una voz predeterminada (Emma, Lauren, Henry o James) o borrar una grabación."
+      },
+      {
+        "title": "Micrófono",
+        "body": "El micrófono se usa solo mientras grabas una muestra de voz. LUMORA Manifest no deja el micrófono abierto en segundo plano."
+      },
+      {
+        "title": "Eliminar tu cuenta",
+        "body": "Puedes borrar tu cuenta en cualquier momento desde la app. La eliminación quita tu perfil, las historias vinculadas a la cuenta y las grabaciones de voz, salvo las copias que debamos conservar por ley."
+      },
+      {
+        "title": "Contacto",
+        "body": "Las preguntas de privacidad pueden enviarse a support@lumoramanifest.com o por la página de soporte. Esta política es un borrador y debe sustituirse antes del lanzamiento."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Soporte",
+    "title": "Leemos cada nota.",
+    "subtitle": "Envía un mensaje sobre tu cuenta, una historia o tus grabaciones de voz. El formulario confirma en la página. Conecta un buzón antes del lanzamiento.",
+    "name": "Nombre",
+    "email": "Correo",
+    "topic": "Tema",
+    "message": "Mensaje",
+    "topicPlaceholder": "Elige un tema",
+    "topics": {
+      "account": "Cuenta",
+      "voice": "Clon de voz",
+      "billing": "Facturación",
+      "other": "Otra cosa"
+    },
+    "submit": "Enviar mensaje",
+    "successTitle": "Recibido.",
+    "success": "Gracias. Responderemos al correo que escribiste cuando haya un buzón de soporte.",
+    "another": "Escribir otra nota",
+    "errors": {
+      "name": "Escribe tu nombre.",
+      "email": "Escribe un correo válido.",
+      "topic": "Elige un tema.",
+      "message": "Escribe al menos 10 caracteres para que podamos ayudar."
+    }
+  },
+  "notFound": {
+    "title": "Esta página no está en el capítulo.",
+    "body": "El enlace puede ser antiguo. Las historias siguen en la página de inicio.",
+    "cta": "Volver a LUMORA Manifest"
+  },
+  "page": {
+    "new": "Nuevo",
+    "badge": "Historias escritas a partir de la vida que describes",
+    "headline1": "Tu próximo capítulo",
+    "headline2": "empieza contigo.",
+    "subhead": "Historias de audio personales sobre la vida que quieres, narradas con tu propia voz.",
+    "getApp": "Obtener la app",
+    "howLink": "Cómo funciona",
+    "navStories": "Historias",
+    "navVoices": "Voces",
+    "navHow": "Cómo funciona",
+    "navPricing": "Precios",
+    "navFaq": "Preguntas",
+    "previewLabel": "Vista previa de la historia",
+    "categoryLabel": "Categoría",
+    "defaultVoice": "Voz predeterminada",
+    "yourVoice": "Tu voz",
+    "play": "Reproducir historia",
+    "pause": "Pausar historia",
+    "progress": "Posición de reproducción",
+    "simulated": "Vista previa simulada",
+    "narrator": "Narrador",
+    "categories": {
+      "love": "Vida amorosa",
+      "money": "Libertad financiera",
+      "family": "Familia",
+      "career": "Etapa profesional",
+      "health": "Salud"
+    },
+    "stories": {
+      "love": {
+        "title": "La tarde en que dejé de esperar",
+        "lines": [
+          "La luz cálida llena la habitación y me siento por completo en casa.",
+          "Pongo la mesa para dos sin ensayar lo que voy a decir.",
+          "Su risa llega suave, y el futuro deja de sentirse lejos.",
+          "Me quedo. Esa es toda la historia, y es suficiente."
+        ]
+      },
+      "money": {
+        "title": "Una mañana con las cuentas en orden",
+        "lines": [
+          "Los números se acomodan y elijo la mañana sin prisa.",
+          "El café se enfría mientras decido para qué es de verdad el día.",
+          "Pago la cuenta que solía quedarse en el fondo de la mente.",
+          "La libertad, resulta, suena mucho a una cocina en silencio."
+        ]
+      },
+      "family": {
+        "title": "La cocina que ya nos conoce",
+        "lines": [
+          "La risa llega a la cocina antes que yo, y ya pertenezco.",
+          "Alguien me guardó una silla sin hacer un discurso.",
+          "La ventana está abierta y la tarde no tiene otro lugar donde estar.",
+          "Escucho más de lo que hablo, y eso se siente como amor."
+        ]
+      },
+      "career": {
+        "title": "La sala a la que entré lista",
+        "lines": [
+          "Entro en la sala ya segura del trabajo que vine a hacer.",
+          "Mi nombre está en el trabajo, y no lo achico para que quepa.",
+          "La pregunta que hacen es una que ya he vivido.",
+          "Me voy con el siguiente capítulo todavía abierto, a propósito."
+        ]
+      },
+      "health": {
+        "title": "Un cuerpo en el que vuelvo a confiar",
+        "lines": [
+          "Mi respiración es lenta y mi cuerpo se siente como un lugar de confianza.",
+          "Tomo el camino largo a casa porque mis piernas quieren la luz.",
+          "El descanso está en el calendario, igual que antes lo estaba el trabajo.",
+          "Agradezco que el día sea ordinario y amable."
+        ]
+      }
+    },
+    "bentoTitle": "Historias para la vida que sigues imaginando.",
+    "features": [
+      {
+        "title": "Un capítulo escrito para tu vida",
+        "body": "Amor, dinero, familia, trabajo o salud. Cada historia empieza por lo que elegiste compartir."
+      },
+      {
+        "title": "La app, en tu mano",
+        "body": "Inicio, reproductor y biblioteca viven en una sola pantalla tranquila."
+      },
+      {
+        "title": "Escucha o lee",
+        "body": "El mismo capítulo suena en voz alta o queda en la página con la línea actual marcada."
+      },
+      {
+        "title": "Una tarjeta para publicar",
+        "body": "Convierte una frase en una tarjeta pequeña, del tamaño de los lugares donde ya compartes."
+      },
+      {
+        "title": "Una historia nueva puede esperarte",
+        "body": "Abre LUMORA Manifest por la mañana y un capítulo nuevo ya puede estar ahí."
+      },
+      {
+        "title": "Guarda las que repites",
+        "body": "Los favoritos quedan en una lista, listos para un paseo o una noche tarde."
+      }
+    ],
+    "mocks": {
+      "evening": "Buenas noches",
+      "continue": "Seguir el capítulo",
+      "nowReading": "Leyendo ahora",
+      "ready": "Lista por la mañana",
+      "readLine": "Los números se acomodan y elijo mi mañana.",
+      "cardLine": "Me quedo. Esa es toda la historia."
+    },
+    "howTitle": "Cuatro pasos tranquilos.",
+    "steps": [
+      {
+        "title": "Cuéntale a LUMORA Manifest tu mundo",
+        "body": "Una serie de preguntas recorre las personas, los lugares y los detalles que quieres en la historia."
+      },
+      {
+        "title": "Sueña con libertad",
+        "body": "Nombra las metas, la ciudad y la casa que sigues imaginando. El capítulo se escribe desde ahí."
+      },
+      {
+        "title": "Graba tu voz",
+        "body": "Lee un texto corto. LUMORA Manifest puede guardar hasta tres grabaciones, y solo después de que aceptes."
+      },
+      {
+        "title": "Escucha, lee, comparte",
+        "body": "Reproduce la historia, sigue las líneas en pantalla, guárdala o convierte un pasaje en una tarjeta."
+      }
+    ],
+    "privacyTitle": "Tu privacidad importa.",
+    "privacyBody": "Tú decides qué entra en una historia. El clon de voz se hace solo después de que aceptas, el micrófono está activo solo mientras grabas y puedes borrar la cuenta cuando quieras.",
+    "checks": [
+      "Comparte solo lo que te resulte cómodo",
+      "El clon de voz se usa solo con tu consentimiento",
+      "El micrófono solo durante una grabación",
+      "Borra tu cuenta en cualquier momento"
+    ],
+    "voicesTitle": "Una biblioteca de voces, incluida la tuya.",
+    "voicesBody": "Empieza con una voz predeterminada. Cuando quieras, graba una muestra corta y escucha el mismo capítulo con tu voz.",
+    "voiceCopy": {
+      "mine": {
+        "name": "Mi voz 01",
+        "description": "Una grabación corta que hiciste tú."
+      },
+      "emma": {
+        "name": "Emma",
+        "description": "Cálida, estable y cercana."
+      },
+      "lauren": {
+        "name": "Lauren",
+        "description": "Brillante, con un poco de aire en las pausas."
+      },
+      "henry": {
+        "name": "Henry",
+        "description": "Grave y sin prisa."
+      },
+      "james": {
+        "name": "James",
+        "description": "Clara, como alguien que lee al otro lado de la mesa."
+      }
+    },
+    "pricingTitle": "Elige tu próximo capítulo",
+    "bestValue": "MEJOR VALOR",
+    "storiesDaily": "historias nuevas al día",
+    "continueWith": "Continuar con",
+    "renews": "Se renueva solo · Cancela cuando quieras",
+    "restore": "Restaurar compras",
+    "terms": "Términos",
+    "privacyLink": "Privacidad",
+    "faqTitle": "Preguntas",
+    "faq": [
+      {
+        "q": "¿Cómo funciona el clon de voz?",
+        "a": "Grabas una muestra corta en la app. Después de que aceptas, LUMORA Manifest crea una voz y la usa solo para narrar tus historias. Puedes guardar hasta tres grabaciones, cambiar a una voz predeterminada o borrar una toma."
+      },
+      {
+        "q": "¿Mis datos son privados?",
+        "a": "Tú eliges qué compartir. El audio de la voz se usa solo con tu consentimiento, el micrófono está activo solo mientras grabas y puedes borrar tu cuenta y tus grabaciones."
+      },
+      {
+        "q": "¿Qué idiomas puedo usar?",
+        "a": "Inglés, ruso, árabe, bahasa Indonesia, español y chino."
+      },
+      {
+        "q": "¿Puedo cancelar cuando quiera?",
+        "a": "Sí. Explore, LUMORA Manifest Plus y LUMORA Manifest Premium se renuevan hasta que los canceles en el App Store. También puedes restaurar las compras si cambias de teléfono."
+      },
+      {
+        "q": "¿LUMORA Manifest está en iOS?",
+        "a": "Sí. LUMORA Manifest está en el App Store."
+      }
+    ],
+    "ctaTitle1": "Tu próximo capítulo",
+    "ctaTitle2": "está listo cuando tú lo estés.",
+    "ctaBody": "Descarga LUMORA Manifest en el App Store y escucha una historia escrita para la vida que quieres.",
+    "appStore": "Descargar en el App Store",
+    "footerProduct": "Producto",
+    "footerSupport": "Soporte",
+    "footerHelp": "Ayuda",
+    "footerLegal": "Legal"
+  }
+}

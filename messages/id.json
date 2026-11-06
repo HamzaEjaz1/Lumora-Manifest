@@ -1,0 +1,589 @@
+{
+  "meta": {
+    "title": "LUMORA Manifest — Cerita audio pribadi dengan suaramu",
+    "description": "LUMORA Manifest membuat cerita audio tentang hidup yang kamu inginkan, lalu membacakannya dengan suara kloningmu.",
+    "ogTitle": "Bab berikutnya dimulai dari kamu.",
+    "termsTitle": "Ketentuan layanan",
+    "termsDescription": "Ketentuan penggunaan aplikasi dan situs LUMORA Manifest.",
+    "privacyTitle": "Kebijakan privasi",
+    "privacyDescription": "Bagaimana LUMORA Manifest menangani cerita, rekaman suara, dan akunmu.",
+    "supportTitle": "Dukungan",
+    "supportDescription": "Hubungi tim LUMORA Manifest tentang akun, cerita, atau suaramu."
+  },
+  "a11y": {
+    "skip": "Lewati ke isi",
+    "logo": "Beranda LUMORA Manifest",
+    "primaryNav": "Navigasi utama"
+  },
+  "nav": {
+    "how": "How it works",
+    "voice": "Voice",
+    "stories": "Stories",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "download": "Download",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "lang": {
+    "label": "Language",
+    "en": "English",
+    "ru": "Русский",
+    "ar": "العربية",
+    "id": "Bahasa Indonesia",
+    "es": "Español",
+    "zh": "中文"
+  },
+  "hero": {
+    "eyebrow": "Dream-life audio",
+    "headline": "Your next chapter starts with you.",
+    "subhead": "Personal audio stories, narrated in your own voice, about the life you want.",
+    "appStore": "Download on the App Store",
+    "mockLabel": "LUMORA Manifest home screen"
+  },
+  "demo": {
+    "eyebrow": "Listen",
+    "title": "Hear a chapter before you download.",
+    "subtitle": "Choose a life you are writing. Press play and follow the lines as they are spoken.",
+    "defaultVoice": "Default voice",
+    "yourVoice": "Your voice",
+    "voiceToggle": "Narration voice",
+    "play": "Play story",
+    "pause": "Pause story",
+    "progress": "Story progress",
+    "waveform": "Audio waveform",
+    "categories": {
+      "love": "Love Life",
+      "money": "Financial Freedom",
+      "family": "Family",
+      "career": "Career Era",
+      "health": "Health"
+    },
+    "stories": {
+      "love": {
+        "title": "The evening I stopped waiting",
+        "lines": [
+          "Warm sunlight fills the room, and I feel completely at home.",
+          "I set the table for two without rehearsing what I will say.",
+          "Their laugh lands softly, and the future stops feeling far away.",
+          "I stay. That is the whole story, and it is enough."
+        ]
+      },
+      "money": {
+        "title": "A morning with the numbers settled",
+        "lines": [
+          "The numbers settle, and I choose my morning without rushing.",
+          "Coffee cools while I decide what the day is actually for.",
+          "I pay the bill that used to sit in the back of my mind.",
+          "Freedom, it turns out, sounds a lot like a quiet kitchen."
+        ]
+      },
+      "family": {
+        "title": "The kitchen that already knows us",
+        "lines": [
+          "Laughter reaches the kitchen before I do, and I already belong.",
+          "Someone saved me a chair without making a speech about it.",
+          "The window is open, and the evening has nowhere else to be.",
+          "I listen longer than I talk, and that feels like love."
+        ]
+      },
+      "career": {
+        "title": "The room I walked into ready",
+        "lines": [
+          "I walk into the room already certain of the work I came to do.",
+          "My name is on the work, and I do not shrink it to fit.",
+          "The question they ask is one I have already lived inside.",
+          "I leave with the next chapter still open, on purpose."
+        ]
+      },
+      "health": {
+        "title": "A body I trust again",
+        "lines": [
+          "My breath is slow, and my body feels like a place I trust.",
+          "I take the long way home because my legs want the light.",
+          "Rest is on the calendar, the same way work used to be.",
+          "I thank the day for being ordinary and kind."
+        ]
+      }
+    }
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "Four quiet steps to a story that sounds like you.",
+    "steps": [
+      {
+        "title": "Tell LUMORA Manifest about your world",
+        "body": "A 22-step guided onboarding covers the people, places, and details that make a story feel like yours."
+      },
+      {
+        "title": "Dream freely",
+        "body": "Name the goals, the cities, and the home you are moving toward. LUMORA Manifest writes from that picture."
+      },
+      {
+        "title": "Record your voice",
+        "body": "Clone your voice with a short recording. Keep up to three takes, and stay in control of consent."
+      },
+      {
+        "title": "Listen, read, share",
+        "body": "Play the story, read along with synced lines, save favorites, and share a card when you want to."
+      }
+    ]
+  },
+  "voice": {
+    "eyebrow": "Your voice",
+    "title": "Your voice, your story.",
+    "body": "LUMORA Manifest narrates in a voice clone you record yourself, or in a preset voice if you would rather listen first.",
+    "recordings": "You can keep up to 3 voice recordings.",
+    "presetsLabel": "Preset voices",
+    "presets": "Emma, Lauren, Henry, and James are ready when you want a narrator that is not your own.",
+    "checklistTitle": "Before you record",
+    "checks": [
+      "Find a quiet room",
+      "Hold the phone a hand's width away",
+      "Read the prompt at your natural pace",
+      "Redo a take whenever you want"
+    ],
+    "consent": "I agree to use my voice recording to narrate my LUMORA Manifest stories.",
+    "consentHint": "A clone is created only after you consent. You can delete a recording later in the app.",
+    "preview": "Preview recording",
+    "stop": "Stop preview",
+    "waveform": "Recording preview"
+  },
+  "features": {
+    "eyebrow": "The app",
+    "title": "Everything around the story.",
+    "items": [
+      {
+        "title": "Stories by category",
+        "body": "Love, money, family, career, and health. Each chapter is written from the life you described."
+      },
+      {
+        "title": "Listen or read",
+        "body": "Play the narration, or read the same chapter with lines that stay in sync."
+      },
+      {
+        "title": "Background audio",
+        "body": "Keep a story playing with the phone locked, or while you move to another app."
+      },
+      {
+        "title": "Favorites",
+        "body": "Save the chapters you want to return to on an evening that needs them."
+      },
+      {
+        "title": "Shareable cards",
+        "body": "Turn a story into a card sized for the places you already post."
+      },
+      {
+        "title": "Six languages",
+        "body": "English, Russian, Arabic, Bahasa Indonesia, Spanish, and Chinese."
+      },
+      {
+        "title": "A new story, daily",
+        "body": "Open LUMORA Manifest and a fresh chapter can already be waiting."
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "Screens",
+    "title": "A calm player for a loud goal.",
+    "subtitle": "Swipe through Home, Play, Read, Favorites, Profile, and Share.",
+    "prev": "Previous screen",
+    "next": "Next screen",
+    "screens": {
+      "home": "Home",
+      "play": "Play",
+      "read": "Read",
+      "favorites": "Favorites",
+      "profile": "Profile",
+      "share": "Share"
+    }
+  },
+  "phone": {
+    "greeting": "Good evening",
+    "you": "You",
+    "continue": "Continue",
+    "minutes": "12 min",
+    "tonight": "Tonight",
+    "seeAll": "See all",
+    "nowPlaying": "Now playing",
+    "readAlong": "Read along",
+    "saved": "Saved",
+    "myVoice": "My voice",
+    "recordingCount": "2 of 3 recordings",
+    "shareCard": "Story card",
+    "step": "Step 7 of 22",
+    "question": "What should we call you?",
+    "next": "Continue",
+    "dream": "Dream home",
+    "cities": "Cities you keep picturing",
+    "homeLine": "A bright kitchen, close to the water",
+    "recordTitle": "Your voice",
+    "chips": [
+      "Love",
+      "Family",
+      "Career"
+    ]
+  },
+  "privacyBlock": {
+    "eyebrow": "Trust",
+    "title": "Your privacy matters.",
+    "body": "You share only what you are comfortable with. Your voice clone is used only with consent. The microphone is used only while you are recording. You can delete your account anytime.",
+    "link": "Read the Privacy Policy"
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Choose your next chapter",
+    "perWeek": "/ week",
+    "perMonth": "/ month",
+    "bestValue": "Best value",
+    "stories": "{count} new stories daily",
+    "renews": "Auto-renews · Cancel anytime",
+    "restore": "Restore purchases",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "plans": {
+      "explore": "Explore",
+      "plus": "LUMORA Manifest Plus",
+      "premium": "LUMORA Manifest Premium"
+    },
+    "cta": {
+      "explore": "Continue with Explore",
+      "plus": "Continue with Plus",
+      "premium": "Continue with Premium"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Notes",
+    "title": "Listeners, in their own words.",
+    "disclaimer": "Placeholder notes. Replace the cards in config/site.ts."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions, answered plainly.",
+    "items": [
+      {
+        "q": "How does voice cloning work?",
+        "a": "You record a short sample in the app. After you consent, LUMORA Manifest builds a voice clone and uses it only to narrate your stories. You can store up to three recordings, switch to a preset voice, or delete a recording."
+      },
+      {
+        "q": "Is my data private?",
+        "a": "You decide what to share during onboarding. Voice audio is used only with consent, the microphone is active only while you record, and you can delete your account and recordings."
+      },
+      {
+        "q": "Which languages can I use?",
+        "a": "English, Russian, Arabic, Bahasa Indonesia, Spanish, and Chinese."
+      },
+      {
+        "q": "Can I cancel anytime?",
+        "a": "Yes. Explore, LUMORA Manifest Plus, and LUMORA Manifest Premium auto-renew until you cancel in the App Store. You can restore purchases if you change phones."
+      },
+      {
+        "q": "Is it available on iOS?",
+        "a": "Yes. LUMORA Manifest is on the App Store."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Your next chapter is loading.",
+    "subtitle": "Download LUMORA Manifest and hear the life you are writing, in a voice you trust."
+  },
+  "footer": {
+    "tagline": "Cerita audio pribadi, dibacakan dengan suaramu sendiri.",
+    "product": "Produk",
+    "legal": "Legal",
+    "terms": "Ketentuan layanan",
+    "privacy": "Kebijakan privasi",
+    "support": "Dukungan",
+    "rights": "Hak cipta dilindungi.",
+    "x": "LUMORA Manifest on X",
+    "instagram": "LUMORA Manifest on Instagram",
+    "tiktok": "LUMORA Manifest on TikTok"
+  },
+  "legal": {
+    "draft": "Ini draf teks hukum untuk situs. Pengacara perlu meninjaunya sebelum diterbitkan.",
+    "updatedLabel": "Terakhir diperbarui",
+    "updated": "6 November 2026",
+    "back": "Kembali ke LUMORA Manifest",
+    "termsSections": [
+      {
+        "title": "Perjanjian",
+        "body": "Ketentuan ini adalah draf. Ketentuan ini akan mengatur penggunaan aplikasi LUMORA Manifest dan situs ini setelah ditinjau pengacara. Dengan mengunduh LUMORA Manifest, kamu akan menyetujui ketentuan yang diterbitkan."
+      },
+      {
+        "title": "Layanan",
+        "body": "LUMORA Manifest menulis cerita audio pribadi dari detail yang kamu pilih untuk dibagikan, dan dapat membacakannya dengan suara yang kamu rekam atau suara bawaan. Cerita dibuat untukmu. Ini bukan janji bahwa peristiwa di masa depan akan terjadi."
+      },
+      {
+        "title": "Akun dan langganan",
+        "body": "LUMORA Manifest menawarkan Explore, LUMORA Manifest Plus, dan LUMORA Manifest Premium. Langganan dikelola di App Store, termasuk pemulihan pembelian. Langganan diperpanjang sampai kamu membatalkannya di App Store. Harga di situs ini berasal dari config/site.ts."
+      },
+      {
+        "title": "Cerita dan suaramu",
+        "body": "Kamu tetap memegang hak atas detail pribadi yang kamu kirim. Kamu memberi izin kepada LUMORA Manifest untuk memakai rekaman suara hanya setelah kamu setuju, dan hanya untuk membacakan ceritamu. Rekaman dan akun bisa dihapus."
+      },
+      {
+        "title": "Penggunaan yang diterima",
+        "body": "Jangan gunakan LUMORA Manifest untuk menyamar sebagai orang lain, merekam suara yang tidak kamu izinkan, atau melanggar hukum. Kami dapat menangguhkan akun yang menyalahgunakan klon suara."
+      },
+      {
+        "title": "Kontak",
+        "body": "Pertanyaan tentang ketentuan ini dapat dikirim ke support@lumoramanifest.com atau dari halaman dukungan. Draf ini tidak membatasi hak yang diberikan hukum negaramu."
+      }
+    ],
+    "privacySections": [
+      {
+        "title": "Yang kamu bagikan",
+        "body": "Awal penggunaan menanyakan duniamu, tujuanmu, dan hidup yang ingin kamu dengar. Kamu hanya membagikan yang kamu nyaman bagikan. Detail bisa dilewati dan LUMORA Manifest tetap bisa dipakai."
+      },
+      {
+        "title": "Klon suara dan persetujuan",
+        "body": "Klon suara dibuat hanya setelah kamu setuju. LUMORA Manifest memakai klon itu untuk membacakan ceritamu. Kamu dapat menyimpan hingga tiga rekaman, beralih ke suara bawaan (Emma, Lauren, Henry, atau James), atau menghapus rekaman."
+      },
+      {
+        "title": "Mikrofon",
+        "body": "Mikrofon dipakai hanya saat kamu merekam sampel suara. LUMORA Manifest tidak membiarkan mikrofon terbuka di latar belakang."
+      },
+      {
+        "title": "Menghapus akun",
+        "body": "Kamu dapat menghapus akun kapan saja dari aplikasi. Penghapusan menghilangkan profil, cerita yang terikat akun, dan rekaman suara, kecuali salinan yang harus kami simpan untuk memenuhi hukum."
+      },
+      {
+        "title": "Kontak",
+        "body": "Pertanyaan privasi dapat dikirim ke support@lumoramanifest.com atau lewat halaman dukungan. Kebijakan ini adalah draf dan harus diganti sebelum peluncuran."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Dukungan",
+    "title": "Kami membaca setiap catatan.",
+    "subtitle": "Kirim pesan tentang akun, cerita, atau rekaman suaramu. Formulir mengonfirmasi di halaman. Hubungkan kotak masuk sebelum peluncuran.",
+    "name": "Nama",
+    "email": "Email",
+    "topic": "Topik",
+    "message": "Pesan",
+    "topicPlaceholder": "Pilih topik",
+    "topics": {
+      "account": "Akun",
+      "voice": "Klon suara",
+      "billing": "Tagihan",
+      "other": "Yang lain"
+    },
+    "submit": "Kirim pesan",
+    "successTitle": "Diterima.",
+    "success": "Terima kasih. Kami akan membalas email yang kamu isi setelah kotak dukungan terhubung.",
+    "another": "Tulis catatan lain",
+    "errors": {
+      "name": "Masukkan namamu.",
+      "email": "Masukkan email yang valid.",
+      "topic": "Pilih topik.",
+      "message": "Tulis minimal 10 karakter agar kami bisa membantu."
+    }
+  },
+  "notFound": {
+    "title": "Halaman ini tidak ada dalam bab.",
+    "body": "Tautannya mungkin sudah lama. Ceritanya masih ada di beranda.",
+    "cta": "Kembali ke LUMORA Manifest"
+  },
+  "page": {
+    "new": "Baru",
+    "badge": "Cerita yang ditulis dari hidup yang kamu gambarkan",
+    "headline1": "Bab berikutnya",
+    "headline2": "dimulai dari kamu.",
+    "subhead": "Cerita audio pribadi tentang hidup yang kamu inginkan, dibacakan dengan suaramu sendiri.",
+    "getApp": "Dapatkan aplikasinya",
+    "howLink": "Cara kerjanya",
+    "navStories": "Cerita",
+    "navVoices": "Suara",
+    "navHow": "Cara kerjanya",
+    "navPricing": "Harga",
+    "navFaq": "Pertanyaan",
+    "previewLabel": "Pratinjau cerita",
+    "categoryLabel": "Kategori",
+    "defaultVoice": "Suara bawaan",
+    "yourVoice": "Suaramu",
+    "play": "Putar cerita",
+    "pause": "Jeda cerita",
+    "progress": "Posisi pemutaran",
+    "simulated": "Pratinjau simulasi",
+    "narrator": "Narator",
+    "categories": {
+      "love": "Kehidupan cinta",
+      "money": "Kebebasan finansial",
+      "family": "Keluarga",
+      "career": "Era karier",
+      "health": "Kesehatan"
+    },
+    "stories": {
+      "love": {
+        "title": "Sore ketika aku berhenti menunggu",
+        "lines": [
+          "Cahaya hangat memenuhi ruangan, dan aku merasa benar-benar di rumah.",
+          "Aku menyiapkan meja untuk dua orang tanpa melatih apa yang akan kukatakan.",
+          "Tawa mereka mendarat pelan, dan masa depan tidak lagi terasa jauh.",
+          "Aku tinggal. Itu seluruh ceritanya, dan itu cukup."
+        ]
+      },
+      "money": {
+        "title": "Pagi ketika angkanya sudah tenang",
+        "lines": [
+          "Angka-angka tenang, dan aku memilih pagiku tanpa terburu-buru.",
+          "Kopi mendingin sementara aku memutuskan untuk apa hari ini sebenarnya.",
+          "Aku membayar tagihan yang dulu tinggal di belakang pikiran.",
+          "Kebebasan, ternyata, terdengar seperti dapur yang sunyi."
+        ]
+      },
+      "family": {
+        "title": "Dapur yang sudah mengenal kita",
+        "lines": [
+          "Tawa sampai ke dapur lebih dulu, dan aku sudah merasa bagian dari sana.",
+          "Seseorang menyimpan kursi untukku tanpa pidato.",
+          "Jendela terbuka, dan sore ini tidak punya tempat lain.",
+          "Aku mendengar lebih lama daripada berbicara, dan itu terasa seperti cinta."
+        ]
+      },
+      "career": {
+        "title": "Ruangan yang kudatangi dalam keadaan siap",
+        "lines": [
+          "Aku masuk ke ruangan sudah yakin pada pekerjaan yang kudatangi.",
+          "Namaku ada pada karya itu, dan aku tidak mengecilkannya.",
+          "Pertanyaan yang mereka ajukan sudah pernah kujalani.",
+          "Aku pergi dengan bab berikutnya masih terbuka, sengaja."
+        ]
+      },
+      "health": {
+        "title": "Tubuh yang kembali kupercaya",
+        "lines": [
+          "Napasku pelan, dan tubuhku terasa seperti tempat yang kupercaya.",
+          "Aku pulang lewat jalan yang lebih panjang karena kakiku ingin cahaya.",
+          "Istirahat ada di kalender, seperti dulu pekerjaan ada di sana.",
+          "Aku berterima kasih karena hari ini biasa dan baik."
+        ]
+      }
+    },
+    "bentoTitle": "Cerita untuk hidup yang terus kamu bayangkan.",
+    "features": [
+      {
+        "title": "Satu bab yang ditulis untuk hidupmu",
+        "body": "Cinta, uang, keluarga, kerja, atau kesehatan. Setiap cerita mulai dari apa yang kamu pilih untuk dibagikan."
+      },
+      {
+        "title": "Aplikasi di tanganmu",
+        "body": "Beranda, pemutar, dan pustaka ada di satu layar yang tenang."
+      },
+      {
+        "title": "Dengar atau baca",
+        "body": "Bab yang sama bisa diputar, atau tinggal di halaman dengan baris yang sedang dibaca."
+      },
+      {
+        "title": "Kartu yang bisa kamu unggah",
+        "body": "Ubah satu kalimat menjadi kartu kecil, seukuran tempat yang sudah kamu pakai untuk berbagi."
+      },
+      {
+        "title": "Cerita baru bisa menunggumu semalaman",
+        "body": "Buka LUMORA Manifest di pagi hari dan bab baru mungkin sudah ada."
+      },
+      {
+        "title": "Simpan yang kamu putar lagi",
+        "body": "Favorit ada dalam satu daftar, siap untuk jalan kaki atau malam yang larut."
+      }
+    ],
+    "mocks": {
+      "evening": "Selamat malam",
+      "continue": "Lanjutkan babnya",
+      "nowReading": "Sedang dibaca",
+      "ready": "Siap pada pagi hari",
+      "readLine": "Angka-angka tenang, dan aku memilih pagiku.",
+      "cardLine": "Aku tinggal. Itu seluruh ceritanya."
+    },
+    "howTitle": "Empat langkah yang tenang.",
+    "steps": [
+      {
+        "title": "Ceritakan duniamu pada LUMORA Manifest",
+        "body": "Serangkaian pertanyaan mencakup orang, tempat, dan detail yang kamu inginkan dalam cerita."
+      },
+      {
+        "title": "Berimajinasi dengan bebas",
+        "body": "Sebutkan tujuan, kota, dan rumah yang terus kamu bayangkan. Babnya ditulis dari situ."
+      },
+      {
+        "title": "Rekam suaramu",
+        "body": "Bacalah teks pendek. LUMORA Manifest dapat menyimpan hingga tiga rekaman, dan hanya setelah kamu setuju."
+      },
+      {
+        "title": "Dengar, baca, bagikan",
+        "body": "Putar cerita, ikuti baris di layar, simpan, atau ubah satu bagian menjadi kartu."
+      }
+    ],
+    "privacyTitle": "Privasi kamu penting.",
+    "privacyBody": "Kamu yang memutuskan apa yang masuk ke cerita. Klon suara dibuat hanya setelah kamu setuju, mikrofon menyala hanya saat merekam, dan akun bisa dihapus kapan saja.",
+    "checks": [
+      "Bagikan hanya yang kamu nyaman bagikan",
+      "Klon suara hanya dengan persetujuan",
+      "Mikrofon hanya saat merekam",
+      "Hapus akun kapan saja"
+    ],
+    "voicesTitle": "Pustaka suara, termasuk suaramu.",
+    "voicesBody": "Mulai dengan suara bawaan. Saat siap, rekam cuplikan pendek dan dengar bab yang sama dengan suaramu.",
+    "voiceCopy": {
+      "mine": {
+        "name": "Suaraku 01",
+        "description": "Rekaman pendek yang kamu buat sendiri."
+      },
+      "emma": {
+        "name": "Emma",
+        "description": "Hangat, stabil, dan dekat."
+      },
+      "lauren": {
+        "name": "Lauren",
+        "description": "Cerah, dengan sedikit udara di jeda."
+      },
+      "henry": {
+        "name": "Henry",
+        "description": "Rendah dan tidak terburu-buru."
+      },
+      "james": {
+        "name": "James",
+        "description": "Jelas, seperti seseorang yang membaca di seberang meja."
+      }
+    },
+    "pricingTitle": "Pilih bab berikutnya",
+    "bestValue": "NILAI TERBAIK",
+    "storiesDaily": "cerita baru setiap hari",
+    "continueWith": "Lanjut dengan",
+    "renews": "Perpanjang otomatis · Batalkan kapan saja",
+    "restore": "Pulihkan pembelian",
+    "terms": "Ketentuan",
+    "privacyLink": "Privasi",
+    "faqTitle": "Pertanyaan",
+    "faq": [
+      {
+        "q": "Bagaimana kloning suara bekerja?",
+        "a": "Kamu merekam cuplikan pendek di aplikasi. Setelah kamu setuju, LUMORA Manifest membuat suara dan memakainya hanya untuk membacakan ceritamu. Kamu bisa menyimpan hingga tiga rekaman, beralih ke suara bawaan, atau menghapus satu rekaman."
+      },
+      {
+        "q": "Apakah dataku privat?",
+        "a": "Kamu memilih apa yang dibagikan. Audio suara dipakai hanya dengan persetujuanmu, mikrofon aktif hanya saat merekam, dan akun serta rekaman bisa dihapus."
+      },
+      {
+        "q": "Bahasa apa yang bisa kupakai?",
+        "a": "Inggris, Rusia, Arab, Bahasa Indonesia, Spanyol, dan Tionghoa."
+      },
+      {
+        "q": "Bisakah kubatalkan kapan saja?",
+        "a": "Ya. Explore, LUMORA Manifest Plus, dan LUMORA Manifest Premium diperpanjang sampai kamu membatalkannya di App Store. Pembelian juga bisa dipulihkan jika kamu ganti ponsel."
+      },
+      {
+        "q": "Apakah LUMORA Manifest ada di iOS?",
+        "a": "Ya. LUMORA Manifest ada di App Store."
+      }
+    ],
+    "ctaTitle1": "Bab berikutnya",
+    "ctaTitle2": "siap saat kamu siap.",
+    "ctaBody": "Unduh LUMORA Manifest di App Store dan dengar cerita yang ditulis untuk hidup yang kamu inginkan.",
+    "appStore": "Unduh di App Store",
+    "footerProduct": "Produk",
+    "footerSupport": "Dukungan",
+    "footerHelp": "Bantuan",
+    "footerLegal": "Legal"
+  }
+}
