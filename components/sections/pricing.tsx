@@ -112,7 +112,7 @@ export function Pricing() {
                   />
                 </span>
                 <span className="min-w-0 flex-1">
-                  <span className="flex items-baseline justify-between gap-4">
+                  <span className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
                     <span className="text-base font-medium">{plan.name}</span>
                     <span className="shrink-0 text-sm">
                       {money(plan.amount)}/{plan.interval}

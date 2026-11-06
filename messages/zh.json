@@ -22,8 +22,8 @@
     "pricing": "Pricing",
     "faq": "FAQ",
     "download": "Download",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单"
   },
   "lang": {
     "label": "Language",

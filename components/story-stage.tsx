@@ -129,11 +129,11 @@ export function StoryStage() {
               ))}
             </div>
 
-            <div className="mt-8 flex h-12 items-end gap-[3px]" aria-hidden>
+            <div className="mt-8 flex h-12 items-end justify-between gap-[2px] overflow-hidden" aria-hidden>
               {Array.from({ length: 36 }, (_, bar) => (
                 <span
                   key={bar}
-                  className={playing ? "wave-bar w-[3px] rounded-full" : "w-[3px] rounded-full"}
+                  className={playing ? "wave-bar w-[3px] max-w-[3px] flex-1 rounded-full" : "w-[3px] max-w-[3px] flex-1 rounded-full"}
                   style={{
                     height: `${10 + ((bar * 13) % 28)}px`,
                     background: "var(--text)",
@@ -187,13 +187,13 @@ export function StoryStage() {
               <div
                 role="group"
                 aria-label={t("narrator")}
-                className="inline-flex shrink-0 rounded-full p-1"
+                className="flex w-full flex-wrap justify-center rounded-full p-1 sm:inline-flex sm:w-auto"
                 style={{ background: "var(--surface)" }}
               >
                 <button
                   type="button"
                   aria-pressed={!ownVoice}
-                  className="rounded-full px-3 py-2 text-sm"
+                  className="min-h-11 flex-1 rounded-full px-3 py-2 text-sm"
                   style={{
                     background: ownVoice ? "transparent" : "var(--card)",
                     color: "var(--text)",
@@ -205,7 +205,7 @@ export function StoryStage() {
                 <button
                   type="button"
                   aria-pressed={ownVoice}
-                  className="rounded-full px-3 py-2 text-sm"
+                  className="min-h-11 flex-1 rounded-full px-3 py-2 text-sm"
                   style={{
                     background: ownVoice ? "var(--card)" : "transparent",
                     color: "var(--text)",

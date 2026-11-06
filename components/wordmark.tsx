@@ -11,8 +11,8 @@ export function Wordmark({ caps = false, className }: { caps?: boolean; classNam
       />
       <span
         className={cn(
-          "whitespace-nowrap text-[13px] font-medium sm:text-[15px]",
-          caps ? "uppercase tracking-[0.08em]" : "tracking-tight",
+          "text-[13px] font-medium leading-tight sm:text-[15px]",
+          caps ? "wordmark-caps" : "whitespace-nowrap tracking-tight",
         )}
       >
         {siteConfig.name}

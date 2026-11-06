@@ -26,10 +26,10 @@ export async function Hero() {
         {t("subhead")}
       </p>
       <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
-        <a href="#download" className="btn btn-primary">
+        <a href="#download" className="btn btn-primary w-full sm:w-auto">
           {t("getApp")}
         </a>
-        <a href="#how" className="btn btn-secondary">
+        <a href="#how" className="btn btn-secondary w-full sm:w-auto">
           {t("howLink")}
         </a>
       </div>

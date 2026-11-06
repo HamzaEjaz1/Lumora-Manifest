@@ -11,7 +11,7 @@ export async function HowItWorks() {
         <h2 id="how-title" className="headline max-w-3xl">
           {t("howTitle")}
         </h2>
-        <ol className="mt-12 grid gap-10 border-t pt-10 md:grid-cols-4" style={{ borderColor: "var(--border)" }}>
+        <ol className="mt-12 grid gap-10 border-t pt-10 lg:grid-cols-4" style={{ borderColor: "var(--border)" }}>
           {steps.map((step, index) => (
             <li key={step.title}>
               <p className="text-sm" style={{ color: "var(--accent-text)" }}>

@@ -16,7 +16,10 @@ export function Footer() {
   const hash = (id: string) => sectionHref(locale, pathname, id);
 
   return (
-    <footer className="border-t py-16" style={{ borderColor: "var(--border)" }}>
+    <footer
+      className="border-t py-16"
+      style={{ borderColor: "var(--border)", paddingBottom: "calc(4rem + env(safe-area-inset-bottom))" }}
+    >
       <div className="mx-auto grid w-full max-w-7xl gap-12 px-5 sm:grid-cols-2 sm:px-8 lg:grid-cols-4">
         <div>
           <a href={homeHref(locale, pathname)} className="inline-flex">
@@ -34,7 +37,7 @@ export function Footer() {
         </FooterColumn>
         <FooterColumn title={page("footerSupport")}>
           <Link href="/support">{page("footerHelp")}</Link>
-          <a href={`mailto:${siteConfig.links.supportEmail}`}>{siteConfig.links.supportEmail}</a>
+          <a className="break-all" href={`mailto:${siteConfig.links.supportEmail}`}>{siteConfig.links.supportEmail}</a>
         </FooterColumn>
         <FooterColumn title={page("footerLegal")}>
           <Link href="/terms">{page("terms")}</Link>

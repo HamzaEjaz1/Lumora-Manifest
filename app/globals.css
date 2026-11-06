@@ -197,10 +197,91 @@ h2 {
   padding-bottom: 88px;
 }
 
-.nav-links {
+html,
+body {
+  overflow-x: clip;
+}
+
+.wordmark-caps {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: normal;
+  max-width: 8.4rem;
+}
+
+@media (min-width: 360px) {
+  .wordmark-caps {
+    white-space: nowrap;
+    max-width: none;
+    letter-spacing: 0.05em;
+  }
+}
+
+.nav-bar {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  min-height: 4rem;
+}
+
+.nav-desktop,
+.nav-tools {
+  display: none;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.nav-links {
+  align-items: center;
   gap: 1.75rem;
+}
+
+.nav-burger {
+  display: inline-flex;
+}
+
+.nav-menu {
+  display: none;
+  border-top: 1px solid var(--border);
+  padding: 0.75rem 1rem calc(1rem + env(safe-area-inset-bottom));
+}
+
+.nav-menu.is-open {
+  display: block;
+  max-height: calc(100dvh - 4rem - env(safe-area-inset-top));
+  overflow: auto;
+}
+
+.nav-menu nav a {
+  display: flex;
+  min-height: 48px;
+  align-items: center;
+  border-radius: 16px;
+  padding: 0 0.75rem;
+  font-size: 1.05rem;
+}
+
+.nav-menu nav a:active {
+  background: var(--surface);
+}
+
+@media (min-width: 1100px) {
+  .nav-desktop,
+  .nav-tools {
+    display: flex;
+  }
+
+  .nav-burger,
+  .nav-menu,
+  .nav-menu.is-open {
+    display: none;
+  }
+
+  .wordmark-caps {
+    max-width: none;
+    white-space: nowrap;
+  }
 }
 
 .wash-a {
@@ -289,6 +370,20 @@ h2 {
 }
 
 @media (max-width: 860px) {
+  .section-space {
+    padding-top: 56px;
+    padding-bottom: 56px;
+  }
+
+  .btn {
+    height: auto;
+    min-height: 44px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    white-space: normal;
+    text-align: center;
+  }
+
   .bento {
     grid-template-columns: 1fr;
   }
@@ -298,7 +393,6 @@ h2 {
     grid-column: auto;
   }
 
-  .nav-links,
   .phone-mock {
     display: none;
   }
